@@ -63,8 +63,11 @@ A lightweight Amazon scraper for product data extraction, price comparison, and 
 
 ## FAQs
 
-**Q:** What is Amazon scraper Chrome extension?  
-**A:** The Amazon scraper Chrome extension is a browser-based tool that automatically extracts product information like title, price, rating, reviews, and stock directly from Amazon pages. It helps sellers, dropshippers, and data analysts gather insights quickly without manual copy-pasting.
+**Q:** What is amazon scraper chrome extension?  
+**A:** The Amazon Scraper Chrome Extension is a browser tool that lets users extract Amazon product data directly while browsing. It displays price, ASIN, and rating information instantly without writing code.  
+
+**Q:** Is amazon scraper free?  
+**A:** Some Amazon scrapers offer limited free features like basic product extraction, but advanced versions with automation, proxies, and bulk scraping are paid tools.  
 
 ---
 
